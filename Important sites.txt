@@ -1,0 +1,11 @@
+enum: http://en.cppreference.com/w/cpp/language/enum
+
+const: http://www.cprogramming.com/tutorial/const_correctness.html
+
+corsour position: http://www.cplusplus.com/forum/beginner/4234/
+
+while(true): https://en.wikipedia.org/wiki/Infinite_loop
+	     http://www.cplusplus.com/forum/articles/7034/
+
+srand(): http://www.cprogramming.com/fod/srand.html
+       	 http://www.cplusplus.com/forum/beginner/69800/
